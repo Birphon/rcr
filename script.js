@@ -34,7 +34,7 @@ const list2 = [
 	"wad",
 	"sucker",
 	"boy",
-	"stai",
+	"stain",
 	"stick",
 	"nozzle",
 	"clown",
